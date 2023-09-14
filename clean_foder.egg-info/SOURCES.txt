@@ -1,0 +1,9 @@
+LICENSE
+setup.py
+clean_foder.egg-info/PKG-INFO
+clean_foder.egg-info/SOURCES.txt
+clean_foder.egg-info/dependency_links.txt
+clean_foder.egg-info/entry_points.txt
+clean_foder.egg-info/top_level.txt
+clean_folder/__init__.py
+clean_folder/clean.py
